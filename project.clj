@@ -6,7 +6,7 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [crypto-random "1.2.0"]
                  [crypto-equality "1.0.0"]
-                 [hiccup "1.0.5"]]
+                 [hiccup "2.0.0-alpha2"]]
   :plugins [[lein-codox "0.10.3"]]
   :codox
   {:output-path "codox"
